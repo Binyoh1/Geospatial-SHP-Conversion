@@ -1,3 +1,5 @@
 .venv/
 csv/
+.augmentignore
 geo_convert_bulk.ipynb
+cmr-admbnda-inc-20180104-shp/

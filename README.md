@@ -1,9 +1,9 @@
 # Converting ESRI Shapefiles (SHP) to GeoJSON and TopoJSON for Map Visualization and Geospatial Analaysis
 
 ## Introduction
-This repository contains spatial data files and Python code used to convert shapefiles to GeoJSON and TopoJSON formats.
+This repository contains spatial data files and Python code used to convert ESRI Shapefiles to GeoJSON and TopoJSON formats.
 
-The full tutorial on how to use this code to convert Esri shapefiles to geojson and topojson is available on [Medium](https://medium.com/@binyoh/how-to-convert-esri-shapefiles-shp-to-geojson-and-topojson-for-creating-map-visuals-and-8e11f7df82ca).
+The full tutorial on how to use this code to convert ESRI Shapefiles to GeoJSON and TopoJSON is available on [Medium](https://medium.com/@binyoh/how-to-convert-esri-shapefiles-shp-to-geojson-and-topojson-for-creating-map-visuals-and-8e11f7df82ca) and [LinkedIn](https://www.linkedin.com/pulse/how-convert-esri-shapefiles-geojson-topojson-creating-binyoh-uegff).
 
 ## Additional Resources
 For further reading, below are some online resources that provide more comprehensive explanations about the different spatial file formats used in this tutorial.
